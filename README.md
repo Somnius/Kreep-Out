@@ -3,6 +3,7 @@ About Kreep-Out
 
 App to Keep away anything that Creeps out your everyday life on a Mac OS computer
 
+
 Change log
 =========
 
@@ -33,3 +34,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+Credits
+=========
+
+Many thanks to Icon Finder for the Creep icon
+https://www.iconfinder.com/icons/48870/005_creep_icon
