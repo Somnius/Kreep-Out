@@ -6,6 +6,8 @@
 
 App to _Keep away_ anything that _Creeps out_ your everyday life on a Mac OS computer.
 
+This app is in early stages and under heavy constructions. Contributors needed (check discussion).
+
 This app is Licenced under the [MIT Licence (MIT)](https://github.com/Somnius/Kreep-Out/blob/master/LICENSE)
 
 Further discussion, in Greek language, on my website [here](http://h4ckintosh.com/programming/kreep-out/)
