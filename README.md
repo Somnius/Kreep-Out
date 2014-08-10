@@ -8,6 +8,7 @@ Change log
 =========
 
 0.2 Added icons and started writing credits
+
 0.1 Initial repository and do-git.sh setup
 
 
@@ -43,7 +44,10 @@ Credits
 Many thanks to :
 
 Gimpshop.com for the Gimp fork alternative to the famous *shop applications
+
 http://www.gimpshop.com/
 
+
 Icon Finder for the Creep icon
+
 https://www.iconfinder.com/icons/48870/005_creep_icon
