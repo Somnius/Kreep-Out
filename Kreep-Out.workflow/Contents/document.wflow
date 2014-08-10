@@ -258,8 +258,6 @@ This is an initial release.</string>
 						<string>2</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -422,8 +420,6 @@ This is an initial release.</string>
 						<string>3</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -535,8 +531,6 @@ This is an initial release.</string>
 						<string>1</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -588,7 +582,7 @@ This is an initial release.</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>do shell script "sudo -s rm -rf /Library/LaunchAgents/com.genieo* &amp;&amp; sudo -s rm -rf /Library/LaunchDaemons/com.genieo* &amp;&amp; sudo -s rm -rf /Library/PrivilegedHelperTools/com.genieo* &amp;&amp; sudo -s rm -rf /Library/Frameworks/com.genieo* &amp;&amp; sudo -s rm -rf /Library/Frameworks/Genieo* &amp;&amp; sudo -s rm -rf /etc/launcd.conf &amp;&amp; sudo -s rm -rf /usr/lib/libgenkit.dylib &amp;&amp; sudo -s rm -rf /usr/lib/libimckit.dylib &amp;&amp; sudo -s rm -rf /usr/lib/libimckitsa.dylib &amp;&amp; sudo -s rm -rf ~/Library/Application\ Support/Genieo*&amp;&amp; sudo -s rm -rf ~/Library/Application\ Support/com.genioinnovation.Installer*" with administrator privileges</string>
+					<string>do shell script "sudo -s rm -rf /Library/LaunchAgents/com.genieo* &amp;&amp; sudo -s rm -rf /Library/LaunchDaemons/com.genieo* &amp;&amp; sudo -s rm -rf /Library/PrivilegedHelperTools/com.genieo* &amp;&amp; sudo -s rm -rf /Library/Frameworks/com.genieo* &amp;&amp; sudo -s rm -rf /Library/Frameworks/Genieo* &amp;&amp; sudo -s rm -rf /etc/launcd.conf &amp;&amp; sudo -s rm -rf /usr/lib/libgenkit.dylib &amp;&amp; sudo -s rm -rf /usr/lib/libimckit.dylib &amp;&amp; sudo -s rm -rf /usr/lib/libimckitsa.dylib &amp;&amp; sudo -s rm -rf '~/Library/Application Support/Genieo*' &amp;&amp; sudo -s rm -rf '~/Library/Application Support/com.genioinnovation.Installer*'" with administrator privileges</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -639,8 +633,6 @@ end run</string>
 						<string>0</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -742,8 +734,6 @@ end run</string>
 				</array>
 				<key>OutputUUID</key>
 				<string>F7DDA1E9-00A6-4D82-A253-E5BA2D1BD409</string>
-				<key>StartAction</key>
-				<false/>
 				<key>UUID</key>
 				<string>238D6207-C3FE-4B13-9855-C7863AC2A1B7</string>
 				<key>UnlocalizedApplications</key>
@@ -805,8 +795,6 @@ end run</string>
 						<string>3</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -883,8 +871,6 @@ end run</string>
 				</array>
 				<key>OutputUUID</key>
 				<string>08AE6854-4D54-4D83-8A6B-BB98C5A22117</string>
-				<key>StartAction</key>
-				<false/>
 				<key>UUID</key>
 				<string>B2E97B0F-0A9E-4EAD-A91F-A930260AA038</string>
 				<key>UnlocalizedApplications</key>
@@ -920,8 +906,6 @@ end run</string>
 						<string>1</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1050,8 +1034,6 @@ end run</string>
 						<string>2</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1065,64 +1047,54 @@ end run</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>1457F76C-F37F-4BC7-8C39-7CC5E9FFB8D2</key>
-		<dict>
-			<key>from</key>
-			<string>0D39D32B-02B0-4C90-9EB4-E5A74430D52F - 0D39D32B-02B0-4C90-9EB4-E5A74430D52F</string>
-			<key>to</key>
-			<string>C744592D-7E23-4321-8A80-10C985733748 - C744592D-7E23-4321-8A80-10C985733748</string>
-		</dict>
-		<key>45C1376F-CC56-47E7-9247-64F76E9AD553</key>
-		<dict>
-			<key>from</key>
-			<string>90943992-1DAC-45C1-B091-E381F1432DBD - 90943992-1DAC-45C1-B091-E381F1432DBD</string>
-			<key>to</key>
-			<string>238D6207-C3FE-4B13-9855-C7863AC2A1B7 - 238D6207-C3FE-4B13-9855-C7863AC2A1B7</string>
-		</dict>
-		<key>65352BBC-ED2D-4947-A45A-937EE0F6EF4E</key>
-		<dict>
-			<key>from</key>
-			<string>B684D3D3-0980-444A-965B-498C1A6FB6E5 - B684D3D3-0980-444A-965B-498C1A6FB6E5</string>
-			<key>to</key>
-			<string>90943992-1DAC-45C1-B091-E381F1432DBD - 90943992-1DAC-45C1-B091-E381F1432DBD</string>
-		</dict>
-		<key>6D9D718D-4B6B-4452-9F30-0BB152A3D832</key>
+		<key>4CDA9094-F361-4BA0-B55D-BC01B72868D7</key>
 		<dict>
 			<key>from</key>
 			<string>4344DD48-C6A4-4987-B8B3-D16CA911EAD8 - 4344DD48-C6A4-4987-B8B3-D16CA911EAD8</string>
 			<key>to</key>
 			<string>0D39D32B-02B0-4C90-9EB4-E5A74430D52F - 0D39D32B-02B0-4C90-9EB4-E5A74430D52F</string>
 		</dict>
-		<key>75A4F6C9-0697-4837-B9F4-BE09D66AD632</key>
-		<dict>
-			<key>to</key>
-			<string>4EC29411-7F66-49BD-A5B6-66735EE582EF - 4EC29411-7F66-49BD-A5B6-66735EE582EF</string>
-		</dict>
-		<key>C3215283-B7CC-4D30-82DE-AFEB59AEF9C0</key>
+		<key>6EE73A2D-337B-49A8-91FF-ADA00557A00D</key>
 		<dict>
 			<key>from</key>
-			<string>238D6207-C3FE-4B13-9855-C7863AC2A1B7 - 238D6207-C3FE-4B13-9855-C7863AC2A1B7</string>
+			<string>90943992-1DAC-45C1-B091-E381F1432DBD - 90943992-1DAC-45C1-B091-E381F1432DBD</string>
 			<key>to</key>
-			<string>B2E97B0F-0A9E-4EAD-A91F-A930260AA038 - B2E97B0F-0A9E-4EAD-A91F-A930260AA038</string>
+			<string>238D6207-C3FE-4B13-9855-C7863AC2A1B7 - 238D6207-C3FE-4B13-9855-C7863AC2A1B7</string>
 		</dict>
-		<key>C58735AA-61AB-443B-A6A0-7993CB3E1D40</key>
+		<key>925472ED-F9F8-42A6-BD37-BFBADE5E83BB</key>
+		<dict>
+			<key>from</key>
+			<string>B684D3D3-0980-444A-965B-498C1A6FB6E5 - B684D3D3-0980-444A-965B-498C1A6FB6E5</string>
+			<key>to</key>
+			<string>90943992-1DAC-45C1-B091-E381F1432DBD - 90943992-1DAC-45C1-B091-E381F1432DBD</string>
+		</dict>
+		<key>A85C6B15-57E5-4C85-964C-01302C82FA49</key>
 		<dict>
 			<key>from</key>
 			<string>B2E97B0F-0A9E-4EAD-A91F-A930260AA038 - B2E97B0F-0A9E-4EAD-A91F-A930260AA038</string>
 			<key>to</key>
 			<string>661560BA-4009-442E-8C39-5E5C6C047695 - 661560BA-4009-442E-8C39-5E5C6C047695</string>
 		</dict>
-		<key>DF6C5A92-BA1F-4B85-8856-0B18A12107AB</key>
+		<key>B644392D-2F8B-4BBB-AE5E-385D67F72328</key>
 		<dict>
 			<key>from</key>
 			<string>C744592D-7E23-4321-8A80-10C985733748 - C744592D-7E23-4321-8A80-10C985733748</string>
 			<key>to</key>
 			<string>B684D3D3-0980-444A-965B-498C1A6FB6E5 - B684D3D3-0980-444A-965B-498C1A6FB6E5</string>
 		</dict>
-		<key>E5F0A7DC-0834-4397-9BC4-A61BF69C0EED</key>
+		<key>B77F0A36-B732-4E51-B6BE-3EBD81D75724</key>
 		<dict>
+			<key>from</key>
+			<string>238D6207-C3FE-4B13-9855-C7863AC2A1B7 - 238D6207-C3FE-4B13-9855-C7863AC2A1B7</string>
 			<key>to</key>
-			<string>36F3E54D-B5C4-4371-9AEB-D371BE6DB922 - 36F3E54D-B5C4-4371-9AEB-D371BE6DB922</string>
+			<string>B2E97B0F-0A9E-4EAD-A91F-A930260AA038 - B2E97B0F-0A9E-4EAD-A91F-A930260AA038</string>
+		</dict>
+		<key>F1238FB0-5A94-4513-8019-A17F0B5F9F2F</key>
+		<dict>
+			<key>from</key>
+			<string>0D39D32B-02B0-4C90-9EB4-E5A74430D52F - 0D39D32B-02B0-4C90-9EB4-E5A74430D52F</string>
+			<key>to</key>
+			<string>C744592D-7E23-4321-8A80-10C985733748 - C744592D-7E23-4321-8A80-10C985733748</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
