@@ -13,8 +13,9 @@ Further discussion, in Greek language, on my website [here](http://h4ckintosh.co
 
 ### Change log
 
-- 0.2 Added icons and started writing credits
-- 0.1 Initial repository and do-git.sh setup
+- 0.3 added initial automator workflow
+- 0.2 added icons and started writing credits
+- 0.1 initial repository and do-git.sh setup
 
 
 ### Credits
