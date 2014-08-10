@@ -23,5 +23,6 @@ Further discussion, in Greek language, on my website [here](http://h4ckintosh.co
 
 Many thanks to :
 
+- Macnotes.gr [article](http://macnotes.gr/2014/04/26/%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%B5-%CF%84%CE%BF-genieo-for-mac/) detailing how to remove Genieo (in Greek)
 - [Gimpshop.com](http://www.gimpshop.com/) for the Gimp fork alternative to the famous *shop applications
 - [Icon Finder](https://www.iconfinder.com/) for the [Creep icon](https://www.iconfinder.com/icons/48870/005_creep_icon)
