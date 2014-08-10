@@ -13,7 +13,7 @@ Further discussion, in Greek language, on my website [here](http://h4ckintosh.co
 
 ### Change log
 
-- 0.4 automator workflow now does search and eliminate the Genieo creepware ([script here (line 591)](https://github.com/Somnius/Kreep-Out/blob/master/Kreep-Out.workflow/Contents/document.wflow#L591))
+- 0.4 automator workflow now does search and eliminate the Genieo creepware, [in-line script here (line 585](https://github.com/Somnius/Kreep-Out/blob/master/Kreep-Out.workflow/Contents/document.wflow#L585), also seperate genieo-removal-scpt for authoring
 - 0.3 added initial automator workflow
 - 0.2 added icons and started writing credits
 - 0.1 initial repository and do-git.sh setup
