@@ -3,7 +3,7 @@ clear
 # variables
 APPNAME="Kreep-Out"
 BACKPATH="../Kreep-Out_backup"
-VER="0.7"
+VER="0.7b"
 echo "Do GIT script v.$VER"
 echo "by @SomniusX (Somnius on GitHub)"
 echo " "
@@ -23,7 +23,7 @@ then
 	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/\"$APPNAME\"_backup\//is the back'ed up file\: /"
 	echo "Backup folder size is.."
 # the du with sed to display the backup folder size
-	du -sh $BACKPATH|sed -e "s/..\/$APPNAME_/holds the folder\: /"
+	du -sh $BACKPATH|sed -e "s/..\/\"$APPNAME\"_/holds the folder\: /"
 	echo " "
 # wait for 1sec
 	sleep 1
@@ -48,7 +48,7 @@ else
 	du -sh $BACKPATH/*.zip|tail -1|sed -e "s/..\/\"$APPNAME\"_backup\//is the back'ed up file\: /"
 	echo "Backup folder size is.."
 # the du with sed to display the backup folder size
-	du -sh $BACKPATH|sed -e "s/..\/$APPNAME_/holds the folder\: /"
+	du -sh $BACKPATH|sed -e "s/..\/\"$APPNAME\"_/holds the folder\: /"
 	echo " "
 # wait for 1sec
 	sleep 1
