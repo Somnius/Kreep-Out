@@ -1,9 +1,15 @@
 #!/bin/bash
-clear
+clear #clears the air of your terminal
 # variables
+###############################################################
+###############################################################
+################ VARIABLES TO EDIT ############################
 APPNAME="Kreep-Out"
-BACKPATH="../Kreep-Out_backup"
-VER="0.7b"
+BACKPATH="../Kreep-Out_backup" #always a folder outside git
+################ DO NOT EDIT AFTER THESE LINES ################
+###############################################################
+###############################################################
+VER="0.8"
 echo "Do GIT script v.$VER"
 echo "by @SomniusX (Somnius on GitHub)"
 echo " "
